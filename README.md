@@ -8,4 +8,6 @@ Vamos explorar os dados sobre Suicídios no Brasil entre os anos de 2014 e 2018.
 
 
 
-fonte:  https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/anualmente-mais-de-700-mil-pessoas-cometem-suicidio-segundo-oms
+Fonte:  https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/anualmente-mais-de-700-mil-pessoas-cometem-suicidio-segundo-oms
+
+Base Kaggle:  https://www.kaggle.com/datasets/psicodata/dados-de-suicdio-no-brasil-2014-a-2018?select=datasus_suicidio_2014_2018.csv
